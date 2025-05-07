@@ -30,7 +30,7 @@ export default function Hero() {
         {/* Image or Illustration */}
         <div className="flex-1 flex justify-center">
           <Image
-            src="/images/task-management-illustration.webp"
+            src="/images/task-management-22.png"
             alt="Task Management Illustration"
             width={500}
             height={500}

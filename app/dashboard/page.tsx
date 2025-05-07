@@ -44,7 +44,7 @@ export default function DashboardHero() {
         >
           <div className="rounded-xl overflow-hidden shadow-xl border dark:border-slate-700">
             <Image
-              src="/images/Dashboard.webp"
+              src="/images/task-management-system.png"
               alt="Dashboard Illustration"
               width={500}
               height={350}
